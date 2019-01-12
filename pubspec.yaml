@@ -1,0 +1,9 @@
+name: FilmStrip
+description: Convert Film to Colors.
+
+dependencies:
+  args: ^1.5.1
+  build_native: ^0.0.10
+  image: ^2.0.5
+  path: ^1.6.2
+  console: ^3.0.0
