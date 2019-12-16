@@ -15,7 +15,7 @@ dart main.dart ~/video.mp4
 Here's how the default options would look in a command:
 
 ```
-dart main.dark --size=medium --ratio=3 --density=200 --orientation=portrait video.mp4
+dart main.dart --size=medium --ratio=3 --density=200 --orientation=portrait video.mp4
 ```
 
 Options:
